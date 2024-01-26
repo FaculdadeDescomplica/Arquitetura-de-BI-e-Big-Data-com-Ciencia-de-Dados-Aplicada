@@ -1,1 +1,1 @@
-# Arquitetura-de-BI-e-Big-Data-com-Ci-ncia-de-Dados-Aplicada
+# Arquitetura de BI e Big Data com Ciência de Dados Aplicada
