@@ -1,7 +1,10 @@
 # Arquitetura de BI e Big Data com Ciência de Dados Aplicada
 
+> 🌟 Bem-vindo ao repositório da disciplina da Faculdade Descomplica! 🌟
 
+> Este espaço é o seu portal para mergulhar fundo no universo da aprendizagem interativa. 🚀 Aqui, você encontrará todos os códigos, 🧩 além dos links para os arquivos e dados 📊.
 
+Link: https://drive.google.com/drive/folders/1X99MyuHMH3FHnQi2LAqXq2FkRPF9i8uv?usp=sharing
 
 * Introdução ao Data Warehouse 📚🔍: Armazenamento centralizado para dados de diversas fontes, essencial para análise e relatórios empresariais.
  
