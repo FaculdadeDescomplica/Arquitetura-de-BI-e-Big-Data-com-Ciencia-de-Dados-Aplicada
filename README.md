@@ -6,49 +6,36 @@
 
 Link: https://drive.google.com/drive/folders/1X99MyuHMH3FHnQi2LAqXq2FkRPF9i8uv?usp=sharing
 
-* Introdução ao Data Warehouse 📚🔍: Armazenamento centralizado para dados de diversas fontes, essencial para análise e relatórios empresariais.
+* Introdução ao Data Warehouse 📚🔍: Vamos estudar sobre o armazenamento centralizado para dados de diversas fontes, essencial para análise e relatórios empresariais.
  
 
-* Arquitetura e Granularidade em Data Warehouse 🏗️🔢: Estrutura que define como os dados são armazenados, acessados e organizados, com ênfase na granularidade para otimizar consultas.
+* Arquitetura e Granularidade em Data Warehouse 🏗️🔢: Analisaremos como é uma estrutura que define como os dados são armazenados, acessados e organizados, com ênfase na granularidade para otimizar consultas.
  
 
-* Modelagem Dimensional 📊✨: Técnica para estruturar dados de forma intuitiva e eficiente, facilitando análises rápidas através de dimensões e fatos.
-  
+* Modelagem Dimensional 📊✨: Vamos explorar como estruturar dados de maneira intuitiva e eficaz, utilizando dimensões e fatos para acelerar as análises e facilitar o entendimento.
 
-* Introdução ao Data Mining 🕵️‍♂️💡: Processo de descobrir padrões e conhecimentos a partir de grandes conjuntos de dados utilizando métodos estatísticos e de machine learning.
-  
+* Introdução ao Data Mining 🕵️‍♂️💡: Estudaremos o processo de identificação de padrões e obtenção de conhecimento em vastos conjuntos de dados através de técnicas estatísticas e de aprendizado de máquina.
 
-* Técnicas e Algoritmos de Data Mining 🤖📈: Explora algoritmos específicos para classificação, regressão, clustering, entre outros, para extrair informações valiosas dos dados.
-  
+* Técnicas e Algoritmos de Data Mining 🤖📈: Mergulharemos nos algoritmos específicos usados para realizar tarefas como classificação, regressão e agrupamento, descobrindo insights valiosos nos dados.
 
-* Introdução à Estatística Aplicada 📉🧮: Fundamentos da estatística que suportam a análise de dados, incluindo probabilidade, inferência estatística e testes de hipóteses.
-  
+* Introdução à Estatística Aplicada 📉🧮: Analisaremos os fundamentos estatísticos essenciais para a análise de dados, abrangendo conceitos de probabilidade, inferência estatística e testes de hipóteses.
 
-* Modelagem Estatística e Aplicações de Data Mining 🧪📊: Aplicação de modelos estatísticos para entender comportamentos e prever tendências a partir de dados.
-  
+* Modelagem Estatística e Aplicações de Data Mining 🧪📊: Aplicaremos modelos estatísticos para compreender comportamentos e prever tendências, integrando estatística e data mining para insights mais profundos.
 
-* Análise Descritiva e Exploratória de Dados 🕵️‍♀️🔍: Primeiros passos na análise de dados, resumindo suas principais características e explorando padrões.
-  
+* Análise Descritiva e Exploratória de Dados 🕵️‍♀️🔍: Daremos os primeiros passos na análise de dados, resumindo características principais e identificando padrões, preparando o terreno para análises mais complexas.
 
-* CRM Analítico 📞💼: Utilização de análise de dados para entender e antecipar as necessidades dos clientes, melhorando a gestão de relacionamento.
-  
+* CRM Analítico 📞💼: Exploraremos como a análise de dados pode aprimorar a gestão de relacionamento com o cliente, antecipando suas necessidades e melhorando a comunicação.
 
-* SCM Analítico 🚚💡: Aplica análise de dados nas cadeias de suprimentos para aumentar a eficiência, reduzir custos e melhorar a satisfação do cliente.
-  
+* SCM Analítico 🚚💡: Estudaremos a aplicação de análise de dados em cadeias de suprimentos para otimizar a eficiência, reduzir custos e aumentar a satisfação dos clientes.
 
-* Business Intelligence (BI) 📊🔎: Conjunto de ferramentas e técnicas para transformar dados brutos em informações significativas para a tomada de decisão empresarial.
-  
+* Business Intelligence (BI) 📊🔎: Vamos investigar o conjunto de ferramentas e técnicas que transformam dados brutos em informações relevantes para decisões empresariais estratégicas.
 
-* Visualização de dados (Looker) 📈🎨: Ferramentas como Looker facilitam a interpretação de dados complexos através de visualizações claras e interativas.
-  
+* Visualização de dados (Looker) 📈🎨: Aprenderemos a usar ferramentas como Looker para criar visualizações de dados claras e interativas, tornando a interpretação de dados complexos mais acessível.
 
-* Introdução ao Big Data 🌐💾: Aborda os desafios e oportunidades de trabalhar com conjuntos de dados massivos e variados que excedem a capacidade das ferramentas tradicionais.
+* Introdução ao Big Data 🌐💾: Discutiremos os desafios e oportunidades apresentados por grandes volumes de dados variados, e como superar limitações de ferramentas tradicionais de análise.
 
+* Busca Distribuída e Bancos de Dados em Big Data (elasticsearch) 🔍🏦: Examinaremos técnicas e ferramentas, como Elasticsearch, para gerenciar e analisar grandes volumes de dados em ambientes distribuídos.
 
-* Busca Distribuída e Bancos de Dados em Big Data (elasticsearch) 🔍🏦: Técnicas e ferramentas, como Elasticsearch, para processar e analisar grandes volumes de dados em sistemas distribuídos.
+* Governança, Privacidade, Segurança e Soluções 🔐🛡️: Enfatizaremos a importância da governança de dados, privacidade e segurança dentro do contexto de BI e Big Data, destacando melhores práticas e soluções.
 
-
-* Governança, Privacidade, Segurança e Soluções 🔐🛡️: Enfatiza a importância da governança de dados, e das práticas de privacidade e segurança no contexto de BI e Big Data.
-
-
-* Ciência de Dados e Tomada de Decisão 🧠📈: A ciência de dados apoia a tomada de decisão estratégica através da análise aprofundada e modelagem preditiva de dados.
+* Ciência de Dados e Tomada de Decisão 🧠📈: Refletiremos sobre como a ciência de dados influencia a tomada de decisões estratégicas, por meio de análises detalhadas e modelagem preditiva.
